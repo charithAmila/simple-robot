@@ -90,25 +90,25 @@ describe("Click the table cell", () => {
 });
 
 describe("Check edges", () => {
-  it("East edge ", async () => {
+  it("East edge ", () => {
     component.setState({ position: { x: 5, y: 1 } });
     component.find("#right").simulate("click");
     expect(component.state().position).toEqual({ x: 5, y: 1 });
   });
 
-  it("West  edge ", async () => {
+  it("West  edge ", () => {
     component.setState({ position: { x: 1, y: 1 } });
     component.find("#left").simulate("click");
     expect(component.state().position).toEqual({ x: 1, y: 1 });
   });
 
-  it("North edge ", async () => {
+  it("North edge ", () => {
     component.setState({ position: { x: 1, y: 5 } });
     component.find("#top").simulate("click");
     expect(component.state().position).toEqual({ x: 1, y: 5 });
   });
 
-  it("South edge ", async () => {
+  it("South edge ", () => {
     component.setState({ position: { x: 1, y: 1 } });
     component.find("#bottom").simulate("click");
     expect(component.state().position).toEqual({ x: 1, y: 1 });
