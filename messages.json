@@ -203,7 +203,7 @@
     },
     "text": "mathugama, සුනන්දාරාමස්ථ ඕව්ට්ගල බදුගම තරුණ බෞද්ධ සමිතිය, Matugama, Sri Lanka",
     "_id": 0.8101814468093529,
-    "image": "https://maps.googleapis.com/maps/api/staticmap?center=6.5004775,80.12151&markers=color:pink%7Clabel:G%7C6.5004775,80.12151&zoom=13&size=207x90&maptype=roadmap&key=AIzaSyCIdZaWaJ2SZK_pLBzLVQSubbVGUQh_D_s",
+    "image": "https://maps.googleapis.com/maps/api/staticmap?center=6.5004775,80.12151&markers=color:pink%7Clabel:G%7C6.5004775,80.12151&zoom=13&size=207x90&maptype=roadmap&key=key",
     "type": "LOCATION",
     "createdAt": "2020-06-21T11:32:43.924Z"
   },
