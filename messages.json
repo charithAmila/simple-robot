@@ -1,0 +1,381 @@
+[
+  {
+    "_id": 0.2023699487392232,
+    "user": { "_id": "pYVpsjBcMzaeK5IDnRVD0helWEW2", "name": "Operator" },
+    "quickReplies": {
+      "type": "radio",
+      "values": [
+        {
+          "title": "I have a question about my meds",
+          "value": {
+            "option": "I have a question about my meds",
+            "action": "QUESTION_ABOUT_MED",
+            "type": "QUICK_REPLY_WITH_KEYBOAR_ICON"
+          }
+        },
+        {
+          "title": "Back to Homepage",
+          "value": {
+            "option": "Back to Homepage",
+            "action": "BACK_TO_HOME",
+            "theam": "GREEN_QUICK_REPLY"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "createdAt": "2020-06-21T11:34:23.602Z",
+    "text": "Thank you for your feedback! Anything else we can help you with?",
+    "_id": 0.12211027890804171,
+    "user": {
+      "name": "React Native",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/chatapp-54d51.appspot.com/o/Ellipse.png?alt=media&token=ec56d099-0f9c-428d-b6be-5062c3657732",
+      "_id": 2
+    }
+  },
+  {
+    "createdAt": "2020-06-21T11:34:20.600Z",
+    "text": "Feedback added",
+    "_id": 0.5994547719963157,
+    "feedBack": {
+      "app": true,
+      "medication": true,
+      "delivery": true,
+      "service": true
+    },
+    "user": { "_id": "pYVpsjBcMzaeK5IDnRVD0helWEW2" }
+  },
+  {
+    "user": { "_id": "pYVpsjBcMzaeK5IDnRVD0helWEW2" },
+    "data": { "value": 3, "readonly": true },
+    "_id": 0.9352098854895783,
+    "text": "",
+    "type": "RATING_BUBBLE",
+    "createdAt": "2020-06-21T11:34:10.563Z"
+  },
+  {
+    "createdAt": "2020-06-21T11:34:04.157Z",
+    "text": "Your medicine has been delivered! Tell us how we did?",
+    "_id": 0.6379757578957668,
+    "user": {
+      "name": "React Native",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/chatapp-54d51.appspot.com/o/Ellipse.png?alt=media&token=ec56d099-0f9c-428d-b6be-5062c3657732",
+      "_id": 2
+    }
+  },
+  {
+    "createdAt": "2020-06-21T11:33:56.158Z",
+    "text": "I have arrived",
+    "_id": 0.8753148821406069,
+    "user": {
+      "name": "React Native",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/chatapp-54d51.appspot.com/o/Ellipsedeliver.png?alt=media&token=71b20b4c-4838-488d-b86d-540e89b6b8fc",
+      "_id": 4
+    }
+  },
+  {
+    "createdAt": "2020-06-21T11:33:51.159Z",
+    "text": "Hi Chaith, I’m headed to your location now ",
+    "_id": 0.8504306807662636,
+    "user": {
+      "name": "React Native",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/chatapp-54d51.appspot.com/o/Ellipsedeliver.png?alt=media&token=71b20b4c-4838-488d-b86d-540e89b6b8fc",
+      "_id": 4
+    }
+  },
+  {
+    "createdAt": "2020-06-21T11:33:46.154Z",
+    "text": "Add delivery note",
+    "_id": 0.27780869675374564,
+    "user": { "name": "React Native", "_id": "pYVpsjBcMzaeK5IDnRVD0helWEW2" }
+  },
+  {
+    "createdAt": "2020-06-21T11:33:38.788Z",
+    "text": "I’ll be completing few deliveries before heading your way. I’ll alert you when I’m closeby.",
+    "_id": 0.9930455692261606,
+    "user": {
+      "name": "React Native",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/chatapp-54d51.appspot.com/o/Ellipsedeliver.png?alt=media&token=71b20b4c-4838-488d-b86d-540e89b6b8fc",
+      "_id": 4
+    }
+  },
+  {
+    "createdAt": "2020-06-21T11:33:35.787Z",
+    "text": "Hi Chaith, I’ve picked up your meds.",
+    "_id": 0.5415291538163887,
+    "user": {
+      "name": "React Native",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/chatapp-54d51.appspot.com/o/Ellipsedeliver.png?alt=media&token=71b20b4c-4838-488d-b86d-540e89b6b8fc",
+      "_id": 4
+    }
+  },
+  {
+    "createdAt": "2020-06-21T11:33:25.789Z",
+    "text": "Alright! I have prepared your medication. We will assign it for delivery soon.",
+    "_id": 0.2262094792092464,
+    "user": {
+      "name": "React Native",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/chatapp-54d51.appspot.com/o/phr.png?alt=media&token=c52dfe8b-7c4e-4f44-9250-0ccf079756c7",
+      "_id": 3
+    }
+  },
+  {
+    "createdAt": "2020-06-21T11:33:21.788Z",
+    "text": "I’m preparing your meds, it’ll take up to 45 mins. If you have any questions let us know! ",
+    "_id": 0.6004383203780348,
+    "user": {
+      "name": "React Native",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/chatapp-54d51.appspot.com/o/phr.png?alt=media&token=c52dfe8b-7c4e-4f44-9250-0ccf079756c7",
+      "_id": 3
+    }
+  },
+  {
+    "createdAt": "2020-06-21T11:33:13.786Z",
+    "text": "Confirm Order",
+    "_id": 0.620154546015764,
+    "user": { "name": "React Native", "_id": "pYVpsjBcMzaeK5IDnRVD0helWEW2" }
+  },
+  {
+    "user": {
+      "name": "React Native",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/chatapp-54d51.appspot.com/o/Ellipse.png?alt=media&token=ec56d099-0f9c-428d-b6be-5062c3657732",
+      "_id": 11
+    },
+    "data": {
+      "itemList": [
+        "Lipitor 20mg x 30 Tabs (Rs 7,000)",
+        "Cozaar 50mg x 60 Tabs (Rs 4,000) "
+      ],
+      "period": "1 Month",
+      "prescriptionOption": "Top Brands",
+      "title": "Order Summary",
+      "priceList": [
+        { "title": "Delivery Charge", "value": "Rs 0" },
+        { "title": "Sub Total", "value": "Rs 1500.00" },
+        { "title": "Tax", "value": "Rs 0" },
+        { "title": "Payment Method", "value": "Cash on Delivery" },
+        { "title": "Total", "value": "Rs 1500.00" }
+      ],
+      "deliverTo": "No. 14 Hatch Works (Deliver Now)",
+      "orderNotes": null
+    },
+    "_id": 0.0808980383136575,
+    "text": "",
+    "type": "ORDER_SUMMARY",
+    "createdAt": "2020-06-21T11:33:09.587Z"
+  },
+  {
+    "createdAt": "2020-06-21T11:33:07.588Z",
+    "text": "Thanks! Let’s see if we got everything right",
+    "_id": 0.5757348843398946,
+    "user": {
+      "name": "React Native",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/chatapp-54d51.appspot.com/o/Ellipse.png?alt=media&token=ec56d099-0f9c-428d-b6be-5062c3657732",
+      "_id": 2
+    }
+  },
+  {
+    "createdAt": "2020-06-21T11:33:05.586Z",
+    "text": "22 Jun 2020, 06:30 pm - 07:30 pm",
+    "_id": 0.6138846765500994,
+    "user": {
+      "name": "React Native",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/chatapp-54d51.appspot.com/o/Ellipse.png?alt=media&token=ec56d099-0f9c-428d-b6be-5062c3657732",
+      "_id": "pYVpsjBcMzaeK5IDnRVD0helWEW2"
+    }
+  },
+  {
+    "createdAt": "2020-06-21T11:32:45.927Z",
+    "text": "When should we deliver this?",
+    "_id": 0.27097525778707143,
+    "user": {
+      "name": "React Native",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/chatapp-54d51.appspot.com/o/Ellipse.png?alt=media&token=ec56d099-0f9c-428d-b6be-5062c3657732",
+      "_id": 2
+    }
+  },
+  {
+    "user": {
+      "name": "React Native",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/chatapp-54d51.appspot.com/o/Ellipse.png?alt=media&token=ec56d099-0f9c-428d-b6be-5062c3657732",
+      "_id": "pYVpsjBcMzaeK5IDnRVD0helWEW2"
+    },
+    "text": "mathugama, සුනන්දාරාමස්ථ ඕව්ට්ගල බදුගම තරුණ බෞද්ධ සමිතිය, Matugama, Sri Lanka",
+    "_id": 0.8101814468093529,
+    "image": "https://maps.googleapis.com/maps/api/staticmap?center=6.5004775,80.12151&markers=color:pink%7Clabel:G%7C6.5004775,80.12151&zoom=13&size=207x90&maptype=roadmap&key=AIzaSyCIdZaWaJ2SZK_pLBzLVQSubbVGUQh_D_s",
+    "type": "LOCATION",
+    "createdAt": "2020-06-21T11:32:43.924Z"
+  },
+  {
+    "createdAt": "2020-06-21T11:32:29.036Z",
+    "text": "Got it,and where would you like this delivered to?",
+    "_id": 0.5002547527434387,
+    "user": {
+      "name": "React Native",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/chatapp-54d51.appspot.com/o/Ellipse.png?alt=media&token=ec56d099-0f9c-428d-b6be-5062c3657732",
+      "_id": 2
+    }
+  },
+  {
+    "createdAt": "2020-06-21T11:32:27.034Z",
+    "text": "Cash On Delivery",
+    "_id": 0.45374679343404556,
+    "user": { "name": "React Native", "_id": "pYVpsjBcMzaeK5IDnRVD0helWEW2" }
+  },
+  {
+    "createdAt": "2020-06-21T11:32:19.106Z",
+    "text": "How would you like to pay for this order",
+    "_id": 0.952806440150296,
+    "user": {
+      "name": "React Native",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/chatapp-54d51.appspot.com/o/Ellipse.png?alt=media&token=ec56d099-0f9c-428d-b6be-5062c3657732",
+      "_id": 2
+    }
+  },
+  {
+    "createdAt": "2020-06-21T11:32:17.104Z",
+    "text": "Place order",
+    "_id": 0.46927998252644243,
+    "user": { "name": "React Native", "_id": "pYVpsjBcMzaeK5IDnRVD0helWEW2" }
+  },
+  {
+    "user": {
+      "name": "React Native",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/chatapp-54d51.appspot.com/o/Ellipse.png?alt=media&token=ec56d099-0f9c-428d-b6be-5062c3657732",
+      "_id": 2
+    },
+    "data": {},
+    "_id": 0.44494654434908476,
+    "text": "",
+    "type": "COST_BREAKDOWN",
+    "createdAt": "2020-06-21T11:32:14.136Z"
+  },
+  {
+    "createdAt": "2020-06-21T11:32:14.136Z",
+    "text": "Thanks for waiting, here’s an estimate based on your doctors recommendation",
+    "_id": 0.14730305665848875,
+    "user": {
+      "name": "React Native",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/chatapp-54d51.appspot.com/o/Ellipse.png?alt=media&token=ec56d099-0f9c-428d-b6be-5062c3657732",
+      "_id": 2
+    }
+  },
+  {
+    "createdAt": "2020-06-21T11:32:10.135Z",
+    "text": "We’re calculating your estimate. This might take up to 15 mins. Any questions while you wait?",
+    "_id": 0.07055340129058263,
+    "type": "CALCULATING",
+    "user": {
+      "name": "React Native",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/chatapp-54d51.appspot.com/o/Ellipse.png?alt=media&token=ec56d099-0f9c-428d-b6be-5062c3657732",
+      "_id": 2
+    }
+  },
+  {
+    "createdAt": "2020-06-21T11:32:08.135Z",
+    "text": "Got it!",
+    "_id": 0.18901971274736606,
+    "user": {
+      "name": "React Native",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/chatapp-54d51.appspot.com/o/Ellipse.png?alt=media&token=ec56d099-0f9c-428d-b6be-5062c3657732",
+      "_id": 2
+    }
+  },
+  {
+    "createdAt": "2020-06-21T11:32:06.133Z",
+    "text": "No it's for me",
+    "_id": 0.3105283490049582,
+    "user": { "name": "React Native", "_id": "pYVpsjBcMzaeK5IDnRVD0helWEW2" }
+  },
+  {
+    "createdAt": "2020-06-21T11:32:03.030Z",
+    "text": "Are you ordering for some one else?",
+    "_id": 0.02703157375083487,
+    "user": {
+      "name": "React Native",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/chatapp-54d51.appspot.com/o/Ellipse.png?alt=media&token=ec56d099-0f9c-428d-b6be-5062c3657732",
+      "_id": 2
+    }
+  },
+  {
+    "createdAt": "2020-06-21T11:32:01.029Z",
+    "text": "Got it!",
+    "_id": 0.3760928373062591,
+    "user": {
+      "name": "React Native",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/chatapp-54d51.appspot.com/o/Ellipse.png?alt=media&token=ec56d099-0f9c-428d-b6be-5062c3657732",
+      "_id": 2
+    }
+  },
+  {
+    "createdAt": "2020-06-21T11:31:59.027Z",
+    "text": "1 Week",
+    "_id": 0.3285234107283801,
+    "user": { "name": "React Native", "_id": "pYVpsjBcMzaeK5IDnRVD0helWEW2" }
+  },
+  {
+    "createdAt": "2020-06-21T11:31:56.211Z",
+    "text": "How long do you need the medication for?",
+    "_id": 0.33606238649313824,
+    "user": {
+      "name": "React Native",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/chatapp-54d51.appspot.com/o/Ellipse.png?alt=media&token=ec56d099-0f9c-428d-b6be-5062c3657732",
+      "_id": 2
+    }
+  },
+  {
+    "createdAt": "2020-06-21T11:31:54.211Z",
+    "text": "Thanx!",
+    "_id": 0.1346953165464122,
+    "user": {
+      "name": "React Native",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/chatapp-54d51.appspot.com/o/Ellipse.png?alt=media&token=ec56d099-0f9c-428d-b6be-5062c3657732",
+      "_id": 2
+    }
+  },
+  {
+    "user": { "name": "React Native", "_id": "pYVpsjBcMzaeK5IDnRVD0helWEW2" },
+    "text": "",
+    "_id": 0.5278609355667014,
+    "image": "https://firebasestorage.googleapis.com/v0/b/chatapp-54d51.appspot.com/o/images%2Fprescriptions%2FpYVpsjBcMzaeK5IDnRVD0helWEW2%2Fnull?alt=media&token=1c38a73b-18da-4534-a461-4bb89bc3677f",
+    "type": "PRESCRIPTION",
+    "createdAt": "2020-06-21T11:31:52.223Z"
+  },
+  {
+    "createdAt": "2020-06-21T11:31:50.208Z",
+    "text": "Upload prescription",
+    "_id": 0.6605494343322311,
+    "user": { "name": "React Native", "_id": "pYVpsjBcMzaeK5IDnRVD0helWEW2" }
+  },
+  {
+    "createdAt": "2020-06-21T11:31:31.324Z",
+    "text": "To get started can you upload your prescription",
+    "_id": 0.8219424352185096,
+    "user": {
+      "name": "React Native",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/chatapp-54d51.appspot.com/o/Ellipse.png?alt=media&token=ec56d099-0f9c-428d-b6be-5062c3657732",
+      "_id": 2
+    }
+  },
+  {
+    "createdAt": "2020-06-21T11:31:31.324Z",
+    "text": "My name is Dineshi",
+    "_id": 0.19181942841599087,
+    "user": {
+      "name": "React Native",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/chatapp-54d51.appspot.com/o/Ellipse.png?alt=media&token=ec56d099-0f9c-428d-b6be-5062c3657732",
+      "_id": 2
+    }
+  },
+  {
+    "createdAt": "2020-06-21T11:31:31.324Z",
+    "text": "Hi Chaith",
+    "_id": 0.0011515863953956984,
+    "user": {
+      "name": "React Native",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/chatapp-54d51.appspot.com/o/Ellipse.png?alt=media&token=ec56d099-0f9c-428d-b6be-5062c3657732",
+      "_id": 2
+    }
+  }
+]
